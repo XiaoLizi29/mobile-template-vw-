@@ -1,2 +1,6 @@
 > 1%
 last 2 versions
+
+# browserslist配置
+Android >= 4.0
+iOS >= 7
